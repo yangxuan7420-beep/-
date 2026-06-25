@@ -1,0 +1,23 @@
+<svg width="760" height="760" viewBox="0 0 760 760" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="760" rx="52" fill="#F9F2E6"/>
+  <circle cx="563" cy="182" r="118" fill="#E8D29A"/>
+  <circle cx="142" cy="580" r="94" fill="#D7E1D0"/>
+  <path d="M132 186C132 154.52 157.52 129 189 129H480C511.48 129 537 154.52 537 186V547C537 578.48 511.48 604 480 604H189C157.52 604 132 578.48 132 547V186Z" fill="#FFFCF5" stroke="#2C241E" stroke-opacity="0.12" stroke-width="4"/>
+  <path d="M168 203C168 190.85 177.85 181 190 181H474C486.15 181 496 190.85 496 203V548C496 560.15 486.15 570 474 570H190C177.85 570 168 560.15 168 548V203Z" fill="#F4E5C6"/>
+  <path d="M220 234H444" stroke="#26362C" stroke-width="5" stroke-linecap="round" stroke-opacity="0.75"/>
+  <path d="M220 278H444" stroke="#26362C" stroke-width="5" stroke-linecap="round" stroke-opacity="0.3"/>
+  <path d="M220 322H392" stroke="#26362C" stroke-width="5" stroke-linecap="round" stroke-opacity="0.3"/>
+  <rect x="218" y="380" width="228" height="126" rx="20" fill="#DCE6D6"/>
+  <path d="M248 422C281.333 395.333 314.667 395.333 348 422C381.333 448.667 414.667 448.667 448 422" stroke="#6A7D5D" stroke-width="7" stroke-linecap="round"/>
+  <circle cx="253" cy="519" r="10" fill="#BF6C4D"/>
+  <circle cx="286" cy="519" r="10" fill="#D7A857"/>
+  <circle cx="319" cy="519" r="10" fill="#8EA37D"/>
+  <rect x="409" y="303" width="194" height="145" rx="24" transform="rotate(10 409 303)" fill="#FFF8EA" stroke="#2C241E" stroke-opacity="0.12" stroke-width="4"/>
+  <path d="M448 343H563" stroke="#BF6C4D" stroke-width="6" stroke-linecap="round"/>
+  <path d="M448 378H564" stroke="#2C241E" stroke-opacity="0.28" stroke-width="6" stroke-linecap="round"/>
+  <path d="M448 413H530" stroke="#2C241E" stroke-opacity="0.28" stroke-width="6" stroke-linecap="round"/>
+  <rect x="422" y="503" width="168" height="114" rx="24" transform="rotate(-8 422 503)" fill="#26362C"/>
+  <path d="M456 539H558" stroke="#FFF8EA" stroke-width="6" stroke-linecap="round"/>
+  <path d="M456 576H526" stroke="#FFF8EA" stroke-width="6" stroke-linecap="round" stroke-opacity="0.56"/>
+  <text x="218" y="154" fill="#26362C" font-family="Palatino Linotype, serif" font-size="32" font-weight="700">ClarityPad</text>
+</svg>

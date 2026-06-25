@@ -1,0 +1,17 @@
+<svg width="560" height="380" viewBox="0 0 560 380" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="560" height="380" rx="28" fill="#FFF8EA"/>
+  <rect x="36" y="34" width="488" height="312" rx="22" fill="#F5E9CD" stroke="#2C241E" stroke-opacity="0.1" stroke-width="3"/>
+  <path d="M280 64V318" stroke="#2C241E" stroke-opacity="0.08" stroke-width="3"/>
+  <path d="M66 114H250" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M66 164H250" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M66 214H250" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M66 264H250" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M312 114H494" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M312 164H494" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M312 214H494" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <path d="M312 264H494" stroke="#2C241E" stroke-opacity="0.14" stroke-width="3" stroke-linecap="round"/>
+  <rect x="76" y="88" width="116" height="30" rx="15" fill="#D7E1D0"/>
+  <rect x="326" y="194" width="124" height="30" rx="15" fill="#E8D29A"/>
+  <rect x="334" y="88" width="98" height="30" rx="15" fill="#F1C0A6"/>
+  <text x="66" y="68" fill="#26362C" font-family="Avenir Next, sans-serif" font-size="24" font-weight="700">Weekly Map</text>
+</svg>
