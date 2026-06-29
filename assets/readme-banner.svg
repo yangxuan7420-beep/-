@@ -14,8 +14,8 @@
   <rect width="1280" height="520" fill="url(#bg)"/>
   <rect x="54" y="54" width="1172" height="412" rx="0" fill="#fffaf0" opacity="0.88" filter="url(#shadow)"/>
   <text x="92" y="137" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Tonight, Not Wasted</text>
-  <text x="92" y="182" fill="#426b4f" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">AI-Assisted Short-Dated Food Redistribution</text>
-  <text x="92" y="230" fill="#657169" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24">From store shelves to community support before another ordinary night ends in waste.</text>
+  <text x="92" y="182" fill="#426b4f" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">Food Rescue Before the Night Is Over</text>
+  <text x="92" y="230" fill="#657169" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24">Helping closing-time food reach nearby people with clearer records, labels, and care.</text>
   <g transform="translate(92 295)">
     <g>
       <rect x="0" y="0" width="165" height="96" fill="#dce8da" stroke="#426b4f" stroke-width="3"/>
