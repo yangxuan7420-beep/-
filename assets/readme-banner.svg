@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="520" viewBox="0 0 1280 520" role="img" aria-labelledby="title desc">
+  <title id="title">Tonight, Not Wasted campaign visual</title>
+  <desc id="desc">A warm campaign banner showing a store shelf, AI registration, volunteer pickup, labeling, and transparent reporting.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#244b3a"/>
+      <stop offset="0.48" stop-color="#6f8f68"/>
+      <stop offset="1" stop-color="#f2d39c"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#17201b" flood-opacity="0.22"/>
+    </filter>
+  </defs>
+  <rect width="1280" height="520" fill="url(#bg)"/>
+  <rect x="54" y="54" width="1172" height="412" rx="0" fill="#fffaf0" opacity="0.88" filter="url(#shadow)"/>
+  <text x="92" y="137" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="30" font-weight="800">Tonight, Not Wasted</text>
+  <text x="92" y="182" fill="#426b4f" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="52" font-weight="800">AI-Assisted Short-Dated Food Redistribution</text>
+  <text x="92" y="230" fill="#657169" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="24">From store shelves to community support before another ordinary night ends in waste.</text>
+  <g transform="translate(92 295)">
+    <g>
+      <rect x="0" y="0" width="165" height="96" fill="#dce8da" stroke="#426b4f" stroke-width="3"/>
+      <rect x="22" y="28" width="34" height="44" fill="#f2b94b"/>
+      <rect x="66" y="18" width="34" height="54" fill="#c95f45"/>
+      <rect x="110" y="34" width="34" height="38" fill="#426b4f"/>
+      <text x="82.5" y="133" text-anchor="middle" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Store</text>
+    </g>
+    <path d="M185 48 H260" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M252 36 L268 48 L252 60" fill="none" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(285 0)">
+      <rect x="0" y="0" width="165" height="96" fill="#fff4d8" stroke="#f2b94b" stroke-width="3"/>
+      <circle cx="82.5" cy="48" r="30" fill="#f2b94b"/>
+      <text x="82.5" y="57" text-anchor="middle" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="28" font-weight="900">AI</text>
+      <text x="82.5" y="133" text-anchor="middle" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Register</text>
+    </g>
+    <path d="M470 48 H545" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M537 36 L553 48 L537 60" fill="none" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(570 0)">
+      <rect x="0" y="0" width="165" height="96" fill="#eaf3f5" stroke="#5f8790" stroke-width="3"/>
+      <circle cx="60" cy="36" r="17" fill="#426b4f"/>
+      <path d="M38 82 C48 58 72 58 82 82" fill="none" stroke="#426b4f" stroke-width="8" stroke-linecap="round"/>
+      <rect x="94" y="34" width="42" height="36" fill="#f2b94b" stroke="#17201b" stroke-width="2"/>
+      <text x="82.5" y="133" text-anchor="middle" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Pickup</text>
+    </g>
+    <path d="M755 48 H830" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M822 36 L838 48 L822 60" fill="none" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(855 0)">
+      <rect x="0" y="0" width="165" height="96" fill="#fffaf0" stroke="#c95f45" stroke-width="3"/>
+      <rect x="36" y="24" width="94" height="48" fill="#ffffff" stroke="#17201b" stroke-width="3"/>
+      <line x1="50" y1="42" x2="116" y2="42" stroke="#c95f45" stroke-width="4"/>
+      <line x1="50" y1="58" x2="98" y2="58" stroke="#426b4f" stroke-width="4"/>
+      <text x="82.5" y="133" text-anchor="middle" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Label</text>
+    </g>
+    <path d="M1040 48 H1115" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <path d="M1107 36 L1123 48 L1107 60" fill="none" stroke="#17201b" stroke-width="4" stroke-linecap="round"/>
+    <g transform="translate(1140 0)">
+      <rect x="0" y="0" width="110" height="96" fill="#dce8da" stroke="#426b4f" stroke-width="3"/>
+      <rect x="22" y="24" width="14" height="48" fill="#426b4f"/>
+      <rect x="48" y="38" width="14" height="34" fill="#f2b94b"/>
+      <rect x="74" y="14" width="14" height="58" fill="#c95f45"/>
+      <text x="55" y="133" text-anchor="middle" fill="#17201b" font-family="Avenir Next, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">Report</text>
+    </g>
+  </g>
+</svg>
