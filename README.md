@@ -7,7 +7,7 @@
 **One-sentence pitch:** Tonight, Not Wasted helps still-edible short-dated food in its last 24-48 hours move from
 closing-time shelves to nearby people through clearer registration, labels, volunteer coordination, and public reporting.
 
-[Read the webpage draft](./index.html) · [Read the full pitch text](./docs/crowdfunding-pitch-draft.md) · [View visual assets](./assets/) · [Collaboration evidence and reflection](./协作和反思/)
+[Read the webpage draft](./index.html) · [View visual assets](./assets/) · [Collaboration evidence and reflection](./协作和反思/)
 
 ---
 
@@ -102,7 +102,6 @@ banks.
 - `index.html`: scrollable crowdfunding webpage draft
 - `styles.css`: webpage styling
 - `script.js`: light interaction for navigation and reveal effects
-- `docs/crowdfunding-pitch-draft.md`: full English pitch text
 - `assets/readme-banner.svg`: temporary README campaign visual
 - `assets/videos/`: short video materials used in the interactive campaign page
 - `协作和反思/`: AI collaboration evidence, prompt records, conversation links, and later reflection materials
