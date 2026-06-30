@@ -108,6 +108,21 @@ banks.
 
 ---
 
+## Collaboration Evidence and Reflection
+
+The collaboration and reflection materials are collected in [`协作和反思/`](./协作和反思/). Start with the folder guide:
+[`协作和反思/README.md`](./协作和反思/README.md).
+
+| Material | Purpose | Link |
+| --- | --- | --- |
+| Topic discussion record | Shareable GPT conversation about topic selection, project value, and feasibility. | [Notion record 1](https://app.notion.com/share/31dd7be23d2781dd85110003dd27b845/38fd7be23d27818c862d00a9bb1bdf3c) |
+| Video production record | Shareable GPT conversation about short-video planning and production. | [Notion record 2](https://app.notion.com/share/31dd7be23d2781dd85110003dd27b845/38fd7be23d278127859000a9d8c67848) |
+| Webpage copywriting record | Markdown record of Codex-assisted English crowdfunding copywriting and rhetorical-move iteration. | [`ai-collaboration-dialogue.md`](./协作和反思/ai-collaboration-dialogue.md) |
+| AI collaboration statement | Formal statement explaining AI use, human revision, and responsibility boundaries. | [`人工智能合作声明.docx`](./协作和反思/人工智能合作声明.docx) |
+| Personal reflection | Reflection on AI collaboration, English copywriting, webpage work, and human judgment. | [`个人反思.docx`](./协作和反思/个人反思.docx) |
+
+---
+
 ## To Be Added Later
 
 - Group division of labor
