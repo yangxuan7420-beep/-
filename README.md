@@ -7,7 +7,7 @@
 **One-sentence pitch:** Tonight, Not Wasted helps still-edible short-dated food in its last 24-48 hours move from
 closing-time shelves to nearby people through clearer registration, labels, volunteer coordination, and public reporting.
 
-[Read the webpage draft](./index.html) · [Read the full pitch text](./docs/crowdfunding-pitch-draft.md) · [View visual assets](./assets/)
+[Read the webpage draft](./index.html) · [Read the full pitch text](./docs/crowdfunding-pitch-draft.md) · [View visual assets](./assets/) · [Collaboration evidence and reflection](./协作和反思/)
 
 ---
 
@@ -104,21 +104,25 @@ banks.
 - `script.js`: light interaction for navigation and reveal effects
 - `docs/crowdfunding-pitch-draft.md`: full English pitch text
 - `assets/readme-banner.svg`: temporary README campaign visual
+- `assets/videos/`: short video materials used in the interactive campaign page
+- `协作和反思/`: AI collaboration evidence, prompt records, conversation links, and later reflection materials
 
 ---
 
 ## To Be Added Later
 
-- AI-generated or AI-assisted images
-- Short video material
-- AI prompt records and conversation links
 - Group division of labor
-- Individual and group reflections
 - Final public deployment link through GitHub Pages
 
 ---
 
 ## AI Collaboration Statement
 
-This section will be completed later. It should explain which parts were AI-generated, which parts were AI-assisted and
-manually revised, and which parts were written or edited by group members.
+AI was used to support topic exploration, English crowdfunding copywriting, video planning, webpage prototyping, and
+iteration. The main collaboration records are collected in [`协作和反思/`](./协作和反思/), including two shareable Notion
+conversation records and one Markdown record for the Codex-assisted webpage copywriting process.
+
+The formal AI collaboration statement is provided here: [`人工智能合作声明.docx`](./协作和反思/人工智能合作声明.docx). The
+individual reflection is provided here: [`个人反思.docx`](./协作和反思/个人反思.docx). The final wording and project boundaries
+were manually reviewed and revised by the group, especially for rhetorical moves, tone, food-safety claims, AI limitations,
+and pledge descriptions.

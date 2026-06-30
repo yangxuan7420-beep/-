@@ -53,10 +53,25 @@
 
         <aside class="campaign-panel" aria-label="Campaign status">
           <div class="media-window">
-            <div class="media-placeholder">
-              <span class="play-dot"></span>
-              <strong>Campaign video / hero image</strong>
-              <small>Replace with assets/ media later</small>
+            <div class="video-carousel" aria-label="Campaign video reel">
+              <video
+                id="campaign-video"
+                class="campaign-video"
+                src="assets/videos/convenience-store-night.mp4"
+                autoplay
+                muted
+                playsinline
+                preload="metadata"
+              ></video>
+              <div class="video-caption" aria-live="polite">
+                <span id="video-kicker">Campaign reel 01</span>
+                <strong id="video-title">Closing-time shelves</strong>
+              </div>
+              <div class="video-selector" aria-label="Choose campaign video">
+                <button class="video-dot is-active" type="button" data-video-index="0" aria-label="Show closing-time shelves"></button>
+                <button class="video-dot" type="button" data-video-index="1" aria-label="Show leftover food at night"></button>
+                <button class="video-dot" type="button" data-video-index="2" aria-label="Show campus waste seen today"></button>
+              </div>
             </div>
           </div>
           <div class="funding-card">
