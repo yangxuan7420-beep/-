@@ -12,22 +12,27 @@ coordinate, that food can drift toward a discount shelf, a write-off record, or 
 Nearby, there are people for whom that same food could still matter: students returning late from the library, classmates
 living on a tight budget, security guards, dormitory staff, cleaners, and night-shift workers.
 
-**Tonight, Not Wasted** is built for that small window between "still safe" and "too late." We are crowdfunding a 30-day
-campus or community pilot to test whether clearer information, safer labels, trained volunteers, and transparent reporting can
-help still-edible short-dated food move from ordinary shelves to ordinary people before the night is over.
+**Tonight, Not Wasted** is built for that small window between "still safe" and "too late": often the last 24-48 hours before
+short-dated food becomes too difficult to share responsibly. We are crowdfunding a 30-day campus or community pilot to test
+whether clearer information, safer labels, trained volunteers, and transparent reporting can help still-edible food move from
+ordinary shelves to ordinary people before the night is over.
 
 ## What We Are Building
 
 Tonight, Not Wasted is not a student-run food bank. It is not a fully automated AI system that decides whether food is safe.
-It is a lightweight coordination toolkit for stores, school departments, community organizations, charity groups, and
-volunteers who already want to help but need a process that is easier to follow and easier to trust.
+It is a front-end coordination layer for small food retailers and trusted campus or community partners who already want to
+help but need a process that is easier to follow and easier to trust.
+
+That distinction matters. Traditional food banks and charities are better suited to stable, longer-shelf-life donations and
+larger logistics systems. Our pilot focuses on the earlier, messier moment when a small store still has safe food on the
+shelf, but the information, timing, pickup responsibility, and label details are not yet clear enough for redistribution.
 
 The platform helps partners complete five practical steps:
 
-- **List the food:** Stores enter the food name, quantity, shelf life, storage requirements, pickup time, source store, and
-  photo.
-- **Check the rules:** AI helps flag refrigeration needs, urgent timing, missing information, and cases that require manual
-  review.
+- **List the food:** Stores enter the food name, quantity, shelf life, storage requirements, pickup time, source store, photo,
+  and optional stock or sales notes.
+- **Check the rules:** AI helps flag refrigeration needs, urgent timing, missing information, simple risk signals, and cases
+  that require manual review.
 - **Match the pickup:** Volunteers receive practical suggestions based on store location, pickup window, remaining shelf life,
   volunteer availability, and the distribution point.
 - **Label clearly:** Accepted batches receive labels with source, pickup time, storage notes, suggested consumption time, and
@@ -35,9 +40,17 @@ The platform helps partners complete five practical steps:
 - **Publish the outcome:** Daily or weekly summaries show what was collected, what was shared, what was rejected, and how
   funds were used.
 
+In the pilot phase, the AI workflow will stay simple: standard intake forms, rule-based reminders, basic stock notes, label
+drafts, pickup priorities, and report summaries. AI will help people notice problems earlier, but it will not certify food
+safety or replace partner review.
+
 The first pilot will focus on lower-risk items such as sealed packaged food, bread, biscuits, cereal, bottled drinks, instant
 food, uncut fruit, and traceable dairy products that are still within their shelf life. We will not accept expired food,
 opened food, damaged packages, unknown-source food, or high-risk prepared meals in the first phase.
+
+The preferred first-phase setup is a merchant fridge area or one supervised fixed pickup point, rather than informal delivery
+to many separate locations. This keeps the cold-chain question narrower and makes labels, pickup records, and partner review
+easier to manage.
 
 Our goal is modest but meaningful: create a repeatable workflow that helps a small campus or community reduce avoidable food
 waste without shifting safety responsibility onto recipients.
@@ -45,7 +58,8 @@ waste without shifting safety responsibility onto recipients.
 ## Why This Can Be Trusted
 
 As a student team, our credibility does not come from pretending to replace professional food banks, logistics systems, or
-regulatory institutions. It comes from setting a narrow promise and proving that we can follow it carefully.
+regulatory institutions. It comes from working through partners, setting a narrow promise, and proving that we can follow it
+carefully.
 
 The first pilot will run for 30 days with 3-5 partner stores, one fixed distribution point, trained volunteers, and public
 records. This limited scope makes the project more responsible and easier to evaluate.
@@ -74,7 +88,7 @@ The funds will support:
 - Basic food-safety supplies such as gloves, sealing bags, alcohol wipes, and thermometers.
 - Online forms, inventory sheets, and reporting templates.
 - Volunteer training materials and store onboarding materials.
-- Posters, store signs, distribution point notices, and public update pages.
+- Posters, store signs, fridge-area signs, distribution point notices, and public update pages.
 - Small transportation support for volunteer pickup and delivery.
 
 You can support the pilot at different levels:
@@ -109,6 +123,10 @@ Stores can join as pilot partners and submit eligible short-dated food through a
 with communication, pickup, labeling, sorting, and distribution records. Supporters can follow our public updates, ask
 questions, and help us improve the model while the pilot is still running.
 
+The distribution model should also stay dignified. Some items may be offered as low-cost rescue food for general students or
+community members, while trusted school or community partners may issue quiet support vouchers for people who need discreet
+food help. The pilot should not require recipients to publicly prove hardship at the pickup point.
+
 During the 30 days, we plan to publish regular updates about partner stores, accepted food categories, distribution results,
 rejected items, volunteer participation, and fund use. At the end of the pilot, we will release a review explaining what
 worked, what did not work, and what should change before any future expansion.
@@ -122,9 +140,9 @@ The pilot will run in three stages.
 
 **Week 1: Set the boundary**
 
-We will contact 3-5 potential partner stores, confirm one distribution point, design the food intake rules, prepare online
-forms and inventory sheets, create label templates, and train volunteers. This stage is about setting boundaries before any
-food enters the system.
+We will contact 3-5 potential partner stores, confirm one distribution point or merchant fridge area, design the food intake
+rules, prepare online forms and inventory sheets, create label templates, and train volunteers. This stage is about setting
+boundaries before any food enters the system.
 
 **Weeks 2-3: Run the routine**
 
@@ -144,6 +162,7 @@ The pilot has several planned goals:
 - Establish one fixed distribution point.
 - Build one standard food intake and labeling process.
 - Test one AI-assisted inventory and reporting workflow.
+- Test a low-cost rescue channel and, if a trusted partner is ready, a small discreet voucher channel.
 - Identify which food categories are suitable for low-risk redistribution.
 - Publish a transparent report on results, limits, and fund use.
 
@@ -156,7 +175,8 @@ Food redistribution involves real uncertainty. The pilot will be useful only if 
 
 **Food safety:** We will not accept expired food, opened food, damaged packages, unknown-source food, or items with unclear
 storage conditions. The first stage will avoid high-risk prepared meals and difficult cold-chain products. Accepted items will
-be labeled with source, pickup time, storage notes, and suggested consumption time.
+be labeled with source, pickup time, storage notes, and suggested consumption time, under partner review rather than student
+self-certification.
 
 **Store participation:** Stores may not have eligible food every day, and some may not have time to join. We will start with
 only 3-5 partners and keep the intake process simple to reduce their workload.

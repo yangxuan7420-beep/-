@@ -4,8 +4,8 @@
 
 ![Tonight, Not Wasted campaign visual](./assets/readme-banner.svg)
 
-**One-sentence pitch:** Tonight, Not Wasted helps still-edible short-dated food move from closing-time shelves to nearby
-people through clearer registration, labels, volunteer coordination, and public reporting.
+**One-sentence pitch:** Tonight, Not Wasted helps still-edible short-dated food in its last 24-48 hours move from
+closing-time shelves to nearby people through clearer registration, labels, volunteer coordination, and public reporting.
 
 [Read the webpage draft](./index.html) · [Read the full pitch text](./docs/crowdfunding-pitch-draft.md) · [View visual assets](./assets/)
 
@@ -20,8 +20,9 @@ dormitory staff, cleaners, and night-shift workers may need affordable and digni
 **Tonight, Not Wasted** is a 30-day campus or community pilot that tests whether AI-assisted coordination can make small-scale
 food redistribution clearer, safer, and easier to trust.
 
-This is not a student-run food bank, and it is not an automated safety decision system. It is a lightweight workflow for
-partners who need help turning scattered messages into usable records, labels, pickups, and reports.
+This is not a student-run food bank, and it is not an automated safety decision system. It works as a front-end coordination
+layer between small food retailers and trusted campus or community partners, helping them turn scattered messages into usable
+records, labels, pickup routines, supervised distribution points, and reports.
 
 ---
 
@@ -33,9 +34,9 @@ through the page in this order:
 | Page moment | What the reader should understand |
 | --- | --- |
 | Closing time | Good food can become waste because information, timing, and responsibility are unclear |
-| The workflow | The project gives stores and volunteers a practical routine for listing, checking, picking up, labeling, and reporting food |
+| The workflow | The project gives stores, partners, and volunteers a practical routine for listing, checking, picking up, labeling, and reporting food |
 | The safety line | Only lower-risk, traceable, properly packaged food enters the pilot |
-| Why this can work | The team is credible because the promise is narrow, human-reviewed, and publicly recorded |
+| Why this can work | The team is credible because the promise is narrow, partner-based, human-reviewed, and publicly recorded |
 | What backing buys | Each support tier turns into concrete pilot materials or coordination work |
 | Community updates | Stores, volunteers, and supporters can follow and improve the experiment |
 | The 30-day plan | The pilot has a clear preparation, operation, and review timeline |
@@ -52,7 +53,7 @@ The funds will support:
 | Use of funds | Purpose |
 | --- | --- |
 | Label printer and label paper | Mark source, pickup time, storage notes, and suggested consumption time |
-| Insulated boxes and sorting crates | Support short-distance pickup and distribution |
+| Insulated boxes and sorting crates | Support short-distance pickup, sorting, and one supervised pickup point |
 | Basic safety supplies | Gloves, sealing bags, alcohol wipes, and thermometers |
 | Forms and reporting templates | Standardize intake records and public reports |
 | Volunteer training materials | Reduce confusion and improve accountability |
@@ -89,6 +90,10 @@ The first pilot excludes:
 - Unknown-source items
 - High-risk prepared meals
 - Food with unclear storage conditions
+
+The preferred first-phase setup is a merchant fridge area or one supervised fixed pickup point, supported by clear labels and
+partner review. The pilot should not operate as an independent food safety authority or a replacement for professional food
+banks.
 
 ---
 
